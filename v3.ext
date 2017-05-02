@@ -5,3 +5,6 @@ subjectAltName = @alt_names
 
 [alt_names]
 DNS.1 = localhost
+# DNS.2 = my-test-domain-2.com
+# DNS.3 = my-test-domain-3.com
+# DNS.4 = my-test-domain-more.com
